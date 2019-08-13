@@ -1,6 +1,7 @@
 {
   "users": [
     { "id": 1, "CC": "1032497510", "name": "Felipe Guerrero" },
-    { "id": 2, "CC": "1234567890", "name": "Pepito Perez"}
+    { "id": 2, "CC": "1234567890", "name": "Pepito Perez"},
+    { "id": 3, "CC": "789456123", "name": "Juanito Juarez"}
   ]
 }
